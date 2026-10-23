@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "notes": [
-    "新增更新窗口，显示新版本和更新说明，点击即可下载并安装。",
-    "启动后及每隔 6 小时检查 GitHub 更新，有新版时在面板提示。",
-    "升级保留 SSH 配置、面板位置和自启动设置；服务器任务继续运行。"
+    "面板和更新窗口采用暖纸色背景与衬线标题。",
+    "新增 Edit / Auto 模式按钮与 Shift+Tab 快捷键，记住选择并传递给下次打开的网页。",
+    "Auto 仅监看已授权队列；切换模式不启动任务，不修改已经打开的网页。"
   ],
-  "bytes": 25070,
-  "sha256": "8b5732b2814e3c443a6ec0bb814857c173583765ceee2acb3b7460187501dd6f",
-  "url": "https://raw.githubusercontent.com/Ferryyer/Ferryyer/main/downloads/GPU-Queue-Widget-1.1.0-macOS.zip"
+  "bytes": 25844,
+  "sha256": "00e571d6dc7b168c49e0fd4bb21e63b78315e61a68ecbf70c281de2d62db81e0",
+  "url": "https://raw.githubusercontent.com/Ferryyer/Ferryyer/main/downloads/GPU-Queue-Widget-1.1.1-macOS.zip"
 }
