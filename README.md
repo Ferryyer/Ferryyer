@@ -6,7 +6,7 @@
 
 在桌面查看自己的 GPU 任务概况；打开网页可查看队列和步骤进度、调整顺序、开始或停止任务。
 
-**[⬇ 下载 macOS 桌面小组件（ZIP）](https://raw.githubusercontent.com/Ferryyer/gpu-queue/main/downloads/GPU-Queue-Widget-1.1.2-macOS.zip)**
+**[⬇ 下载 macOS 桌面小组件（ZIP）](https://raw.githubusercontent.com/Ferryyer/gpu-queue/main/downloads/GPU-Queue-Widget-1.1.3-macOS.zip)**
 
 1. 在 Mac 上下载并解压整个文件夹，双击 **安装桌面小组件.command**。
 2. 按提示选择已有的个人 SSH 配置；需要登录时，点击面板的“完成登录”。
@@ -18,7 +18,9 @@
 
 ### 软件更新
 
-当前版本：**1.1.2**。
+当前版本：**1.1.3**。本版改善小组件字体与系统深色模式下的控件显示一致性。
+
+网页排版修复已在独立仓库更新；桌面插件升级不会更新服务器网页，网页服务需同步新版源码。
 
 - 面板新增 **检查更新**，打开更新窗口后可查看新版说明、点击 **下载并安装**。
 - 启动时及每隔 6 小时检查 GitHub，有新版时显示提示；安装由你点击决定。
