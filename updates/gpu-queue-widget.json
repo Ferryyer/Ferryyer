@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "notes": [
-    "面板和更新窗口采用暖纸色背景与衬线标题。",
-    "新增 Edit / Auto 模式按钮与 Shift+Tab 快捷键，记住选择并传递给下次打开的网页。",
-    "Auto 仅监看已授权队列；切换模式不启动任务，不修改已经打开的网页。"
+    "修复更新器将中文安装包路径误判为无效的问题：兼容 Info-ZIP 的 Unicode 转义文件清单。",
+    "固定更新器文件清单命令的 UTF-8 环境，保留严格文件白名单、校验和及安装回滚。",
+    "受影响的旧更新器需先从 GitHub 下载本版 ZIP，解压后双击安装器覆盖安装一次。"
   ],
-  "bytes": 25844,
-  "sha256": "00e571d6dc7b168c49e0fd4bb21e63b78315e61a68ecbf70c281de2d62db81e0",
-  "url": "https://raw.githubusercontent.com/Ferryyer/Ferryyer/main/downloads/GPU-Queue-Widget-1.1.1-macOS.zip"
+  "bytes": 26654,
+  "sha256": "77b1652f46675cf7f0b57616411df8d66124fbd2da499a270e1ad246c7902bff",
+  "url": "https://raw.githubusercontent.com/Ferryyer/Ferryyer/main/downloads/GPU-Queue-Widget-1.1.2-macOS.zip"
 }
