@@ -1,5 +1,11 @@
 # Ferryyer
 
+## GPU Queue · 统一桌面应用
+
+**[下载最新 Mac 版本与 SHA-256 校验和](https://github.com/Ferryyer/gpu-queue/releases/latest)** · [源码仓库](https://github.com/Ferryyer/gpu-queue)
+
+适用 Apple Silicon、macOS 13+。下载 DMG，退出旧应用后拖入 Applications；SSH 配置与钥匙串保持原有设置。旧桌面小组件的安装与更新入口见下方。
+
 ## GPU 任务台 · macOS 桌面小组件
 
 **[独立项目 · 源码与文档](https://github.com/Ferryyer/gpu-queue)**
