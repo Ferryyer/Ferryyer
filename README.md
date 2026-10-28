@@ -1,6 +1,6 @@
 # Ferryyer
 
-## GPU Queue · 统一桌面应用
+## Inspire Queue · 统一桌面应用
 
 **[下载最新 Mac 版本与 SHA-256 校验和](https://github.com/Ferryyer/gpu-queue/releases/latest)** · [源码仓库](https://github.com/Ferryyer/gpu-queue)
 
